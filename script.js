@@ -13,7 +13,7 @@ function max(n1, n2) {
     }
 }
 
-function lasrChar(arr) {
+function lastChar(arr) {
     console.log(arr);
     return arr[arr.length-1];
 }
