@@ -21,7 +21,7 @@ function lastChar(arr) {
 function squares(a, b) {
     console.log(a);
     console.log(b);
-    return a**2+b**2
+    return a*a+b*b
 }
 
 function leapYear(y) {
